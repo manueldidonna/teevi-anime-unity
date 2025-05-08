@@ -1,0 +1,109 @@
+import { fetchHTML } from "../utils/html"
+
+const API_URL = new URL(import.meta.env.VITE_AU_API_URL)
+
+export type AUShowType = "TV" | "Movie" | string
+export type AUShowStatus = "In Corso" | "Terminato" | "In Uscita" | "Droppato"
+export type AUShow = {
+  id: number
+  title_eng: string
+  plot?: string
+  date: string // YYYY
+  season?: "Primavera" | "Estate" | "Autunno" | "Inverno"
+  episodes_length?: number // duration in minutes
+  slug: string
+  type: AUShowType
+  score: string
+  dub: number // 0 = no dub, 1 = dub
+  imageurl: string
+  imageurl_cover?: string
+  status?: AUShowStatus
+  anilist_id?: number
+  mal_id?: number
+  genres?: {
+    id: number
+    name: string
+  }[]
+  episodes_count?: number
+}
+
+export type AUShowEpisode = {
+  id: string
+  number: string
+  anime_id: number
+  scws_id: number
+}
+
+export async function fetchAUShowsByQuery(query: string): Promise<AUShow[]> {
+  const endpoint = new URL("archivio", API_URL)
+  endpoint.searchParams.append("title", query)
+
+  const html = await fetchHTML(endpoint)
+  const json = html("archivio[records]").attr("records")
+
+  if (!json) {
+    throw new Error("Failed to parse data from archive")
+  }
+
+  const data = JSON.parse(json) as AUShow[]
+  return data
+}
+
+export async function fetchAUShow(id: string): Promise<AUShow> {
+  const endpoint = new URL(`anime/${id}`, API_URL)
+  const html = await fetchHTML(endpoint)
+  const dataBlock = html("video-player[anime]")
+  const animeJson = dataBlock.attr("anime")
+  const episodesJson = dataBlock.attr("episodes")
+
+  if (!animeJson) {
+    throw new Error("Failed to parse show data")
+  }
+
+  const anime = JSON.parse(animeJson) as AUShow
+  return {
+    ...anime,
+    episodes_count: Number(dataBlock.attr("episodes_count")),
+  }
+}
+
+export async function fetchAUShowEpisodes(
+  show_id: number,
+  start: number = 1,
+  limit: number = 100
+): Promise<AUShowEpisode[]> {
+  const endpoint = new URL(`info_api/${show_id}/1`, API_URL)
+  endpoint.searchParams.append("start_range", start.toString())
+  endpoint.searchParams.append("end_range", (start + limit - 1).toString())
+  const response = await fetch(endpoint.toString(), {
+    method: "GET",
+    headers: {
+      "Content-Type": "application/json",
+      Accept: "application/json",
+      "Accept-Language": "it-IT",
+    },
+  })
+
+  if (!response.ok) {
+    throw new Error("Failed to fetch AU show episodes")
+  }
+  const data = (await response.json()) as {
+    episodes: AUShowEpisode[]
+  }
+
+  return data.episodes || []
+}
+
+export async function fetchAUShowVideo(media_id: number): Promise<string> {
+  const endpoint = new URL(`embed-url/${media_id}`, API_URL)
+  const response = await fetch(endpoint.toString(), {
+    method: "GET",
+    headers: {
+      Accept: "text/plain",
+    },
+  })
+  if (!response.ok) {
+    throw new Error("Failed to fetch AU show video")
+  }
+  return response.text()
+}
