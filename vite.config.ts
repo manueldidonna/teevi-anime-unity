@@ -5,7 +5,7 @@ export default {
   plugins: [
     teevi({
       name: "AnimeUnity",
-      capabilities: ["metadata", "video"],
+      capabilities: ["metadata", "video", "feed"],
     }),
   ],
 } satisfies UserConfig
