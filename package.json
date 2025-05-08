@@ -1,7 +1,7 @@
 {
   "name": "yakan.animeunity",
-  "version": "0.1.0",
-  "description": "Estensione per AnimeUnity, piattaforma italiana di Anime",
+  "version": "0.2.0",
+  "description": "Integra il supporto ad AnimeUnity, la piattaforma italiana per gli amanti degli anime",
   "homepage": "https://www.animeunity.so",
   "author": "Yakan",
   "private": true,

@@ -26,12 +26,43 @@ export type AUShow = {
   }[]
   episodes_count?: number
 }
-
 export type AUShowEpisode = {
   id: string
   number: string
   anime_id: number
   scws_id: number
+}
+
+export async function fetchAUShowsFromArchive(
+  page: number = 1,
+  options: {
+    orderBy?: "popularity" | "views"
+    type?: AUShowType
+  }
+): Promise<AUShow[]> {
+  const endpoint = new URL("top-anime", API_URL)
+  if (page > 1) {
+    endpoint.searchParams.append("page", page.toString())
+  }
+  if (options.orderBy && options.orderBy === "popularity") {
+    endpoint.searchParams.append("popular", "true")
+  }
+  if (options.orderBy && options.orderBy === "views") {
+    endpoint.searchParams.append("order", "most_viewed")
+  }
+  if (options.type) {
+    endpoint.searchParams.append("type", options.type)
+  }
+
+  const html = await fetchHTML(endpoint)
+  const json = html("top-anime[animes]").attr("animes")
+
+  if (!json) {
+    throw new Error("Failed to parse data from archive")
+  }
+
+  const data = JSON.parse(json) as { data: AUShow[] }
+  return data.data
 }
 
 export async function fetchAUShowsByQuery(query: string): Promise<AUShow[]> {
@@ -54,7 +85,6 @@ export async function fetchAUShow(id: string): Promise<AUShow> {
   const html = await fetchHTML(endpoint)
   const dataBlock = html("video-player[anime]")
   const animeJson = dataBlock.attr("anime")
-  const episodesJson = dataBlock.attr("episodes")
 
   if (!animeJson) {
     throw new Error("Failed to parse show data")
