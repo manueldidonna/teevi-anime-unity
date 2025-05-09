@@ -22,6 +22,7 @@ import { fetchJikanShow, fetchJikanShowEpisodes } from "./api/jikan-api"
 import { fetchAnilistShow, fetchAnilistShowEpisodes } from "./api/anilist-api"
 import collections from "../assets/au_feed_collections.json"
 import trendingShows from "../assets/au_feed_trending_shows.json"
+import { fetchKitsuShow } from "./api/kitsu-api"
 
 // Constants
 const EPISODES_PER_SEASON = 100
@@ -114,6 +115,16 @@ async function fetchShow(id: string): Promise<TeeviShow> {
       backdropURL = aniShow.bannerImage || backdropURL
     } catch (error) {
       console.error(`Failed to fetch data from Anilist: ${error}`)
+    }
+  }
+
+  // Enhance data with Kitsu information if available
+  if (show.mal_id) {
+    try {
+      const kitsuShow = await fetchKitsuShow({ mal: show.mal_id })
+      backdropURL = kitsuShow.coverImage?.original || backdropURL
+    } catch (error) {
+      console.error(`Failed to fetch data from Kitsu: ${error}`)
     }
   }
 
