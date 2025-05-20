@@ -12,6 +12,7 @@ import type {
 } from "@teeviapp/core"
 import { fetchVixcloudPlaylist } from "./utils/vixcloud"
 import {
+  AUShow,
   AUShowStatus,
   fetchAUShow,
   fetchAUShowEpisodes,
@@ -49,6 +50,19 @@ function mapStatus(auStatus?: AUShowStatus): TeeviShowStatus | undefined {
 }
 
 /**
+ * Maps AUShow to TeeviShowEntry
+ */
+function mapShowToEntry(auShow: AUShow): TeeviShowEntry {
+  return {
+    kind: auShow.type == "Movie" ? "movie" : "series",
+    id: `${auShow.id}-${auShow.slug}`,
+    title: auShow.title_eng,
+    posterURL: auShow.imageurl,
+    year: Number(auShow.date),
+  }
+}
+
+/**
  * Creates a date string in yyyy-mm-dd format from year and season
  */
 function createDateFromSeason(year: number, season?: string): string {
@@ -77,14 +91,7 @@ function parseShowRating(score: string | number | undefined): number {
 
 async function fetchShowsByQuery(query: string): Promise<TeeviShowEntry[]> {
   const shows = await fetchAUShowsByQuery(query)
-
-  return shows.map((show) => ({
-    kind: show.type == "Movie" ? "movie" : "series",
-    id: `${show.id}-${show.slug}`,
-    title: show.title_eng,
-    posterURL: show.imageurl,
-    year: Number(show.date),
-  }))
+  return shows.map((show) => mapShowToEntry(show))
 }
 
 async function fetchShow(id: string): Promise<TeeviShow> {
@@ -144,6 +151,9 @@ async function fetchShow(id: string): Promise<TeeviShow> {
     backdropURL: backdropURL,
     rating: rating,
     status: mapStatus(show.status),
+    relatedShows: show.related?.map((relatedShow) =>
+      mapShowToEntry(relatedShow)
+    ),
   }
 }
 

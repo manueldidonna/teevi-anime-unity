@@ -26,6 +26,7 @@ export type AUShow = {
   }[]
   episodes_count?: number
 }
+
 export type AUShowEpisode = {
   id: string
   number: string
@@ -80,7 +81,9 @@ export async function fetchAUShowsByQuery(query: string): Promise<AUShow[]> {
   return data
 }
 
-export async function fetchAUShow(id: string): Promise<AUShow> {
+export async function fetchAUShow(
+  id: string
+): Promise<AUShow & { related?: AUShow[] }> {
   const endpoint = new URL(`anime/${id}`, API_URL)
   const html = await fetchHTML(endpoint)
   const dataBlock = html("video-player[anime]")

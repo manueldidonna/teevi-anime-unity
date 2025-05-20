@@ -327,10 +327,10 @@
       },
       {
         "kind": "series",
-        "id": "1811-pokemon-2019",
-        "title": "Pokemon (2019)",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112153-LK1lpFz3vlvl.png",
-        "year": 2019
+        "id": "4903-ragna-crimson",
+        "title": "Ragna Crimson",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146493-bThyDJ4ZmbfV.jpg",
+        "year": 2023
       },
       {
         "kind": "series",
@@ -341,10 +341,10 @@
       },
       {
         "kind": "series",
-        "id": "4903-ragna-crimson",
-        "title": "Ragna Crimson",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146493-bThyDJ4ZmbfV.jpg",
-        "year": 2023
+        "id": "1811-pokemon-2019",
+        "title": "Pokemon (2019)",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112153-LK1lpFz3vlvl.png",
+        "year": 2019
       },
       {
         "kind": "series",
@@ -366,13 +366,6 @@
         "title": "Haikyu!! 4",
         "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx106625-UR22wB2NuNVi.png",
         "year": 2020
-      },
-      {
-        "kind": "series",
-        "id": "3644-spy-x-family",
-        "title": "Spy x Family",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140960-vN39AmOWrVB5.jpg",
-        "year": 2022
       }
     ]
   },
@@ -599,17 +592,17 @@
       },
       {
         "kind": "series",
-        "id": "275-inazuma-eleven-go-chrono-stone-ita",
-        "title": "Inazuma Eleven Go: Chrono Stone (ITA)",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx13261-ONMwQFlAEKqO.jpg",
-        "year": 2012
-      },
-      {
-        "kind": "series",
         "id": "1418-pokemon-xyz-ita",
         "title": "Pokemon XYZ (ITA)",
         "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19291-jwGqfWIXPtGA.png",
         "year": 2013
+      },
+      {
+        "kind": "series",
+        "id": "275-inazuma-eleven-go-chrono-stone-ita",
+        "title": "Inazuma Eleven Go: Chrono Stone (ITA)",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx13261-ONMwQFlAEKqO.jpg",
+        "year": 2012
       },
       {
         "kind": "series",
@@ -620,17 +613,17 @@
       },
       {
         "kind": "series",
-        "id": "3391-one-punch-man-2-ita",
-        "title": "One Punch Man 2 (ITA)",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97668-TAGeFfzxXKnB.jpg",
-        "year": 2019
-      },
-      {
-        "kind": "series",
         "id": "4124-attack-on-titan-the-final-season-part-2-ita",
         "title": "Attack on Titan: The Final Season Part 2 (ITA)",
         "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131681-ODIRpBIbR5Eu.jpg",
         "year": 2022
+      },
+      {
+        "kind": "series",
+        "id": "3391-one-punch-man-2-ita",
+        "title": "One Punch Man 2 (ITA)",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97668-TAGeFfzxXKnB.jpg",
+        "year": 2019
       },
       {
         "kind": "series",
@@ -648,10 +641,24 @@
       },
       {
         "kind": "series",
+        "id": "5876-solo-leveling-2-arise-from-the-shadow-ita",
+        "title": "Solo Leveling 2: Arise from the Shadow (ITA)",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176496-xCNtU4llsUpu.png",
+        "year": 2025
+      },
+      {
+        "kind": "series",
         "id": "4186-demon-slayer-kimetsu-no-yaiba-entertainment-district-arc-ita",
         "title": "Demon Slayer: Kimetsu no Yaiba Entertainment District Arc (ITA)",
         "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142329-kET1PIXJv2eW.jpg",
         "year": 2021
+      },
+      {
+        "kind": "series",
+        "id": "3621-haikyu-ita",
+        "title": "Haikyu!! (ITA)",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20464-eW7ZDBOcn74a.png",
+        "year": 2014
       },
       {
         "kind": "series",
@@ -669,24 +676,10 @@
       },
       {
         "kind": "series",
-        "id": "3621-haikyu-ita",
-        "title": "Haikyu!! (ITA)",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20464-eW7ZDBOcn74a.png",
-        "year": 2014
-      },
-      {
-        "kind": "series",
         "id": "5346-my-hero-academia-7-ita",
         "title": "My Hero Academia 7 (ITA)",
         "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163139-JchZhUFlNTWU.jpg",
         "year": 2024
-      },
-      {
-        "kind": "series",
-        "id": "5876-solo-leveling-2-arise-from-the-shadow-ita",
-        "title": "Solo Leveling 2: Arise from the Shadow (ITA)",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176496-xCNtU4llsUpu.png",
-        "year": 2025
       },
       {
         "kind": "series",
@@ -708,6 +701,13 @@
         "title": "The Seven Deadly Sins: Imperial Wrath of the Gods (ITA)",
         "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108928-DuyUzi0JyPIr.jpg",
         "year": 2019
+      },
+      {
+        "kind": "series",
+        "id": "4905-demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc-ita",
+        "title": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc (ITA)",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145139-rRimpHGWLhym.png",
+        "year": 2023
       }
     ]
   },
@@ -843,17 +843,17 @@
       },
       {
         "kind": "series",
-        "id": "3337-demon-slayer-kimetsu-no-yaiba-entertainment-district-arc",
-        "title": "Demon Slayer: Kimetsu no Yaiba Entertainment District Arc",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142329-kET1PIXJv2eW.jpg",
-        "year": 2021
-      },
-      {
-        "kind": "series",
         "id": "343-the-rising-of-the-shield-hero",
         "title": "The Rising of the Shield Hero",
         "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx99263-SJSk5d6mhQZO.jpg",
         "year": 2019
+      },
+      {
+        "kind": "series",
+        "id": "3337-demon-slayer-kimetsu-no-yaiba-entertainment-district-arc",
+        "title": "Demon Slayer: Kimetsu no Yaiba Entertainment District Arc",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142329-kET1PIXJv2eW.jpg",
+        "year": 2021
       },
       {
         "kind": "series",
@@ -864,17 +864,17 @@
       },
       {
         "kind": "series",
-        "id": "430-naruto-shippuden",
-        "title": "Naruto Shippuden",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1735-Az5gbEdWeotG.png",
-        "year": 2007
-      },
-      {
-        "kind": "series",
         "id": "279-that-time-i-got-reincarnated-as-a-slime",
         "title": "That Time I Got Reincarnated as a Slime",
         "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101280-ezBXqEHi8pg0.jpg",
         "year": 2018
+      },
+      {
+        "kind": "series",
+        "id": "430-naruto-shippuden",
+        "title": "Naruto Shippuden",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1735-Az5gbEdWeotG.png",
+        "year": 2007
       },
       {
         "kind": "series",
@@ -885,13 +885,6 @@
       },
       {
         "kind": "series",
-        "id": "4563-demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc",
-        "title": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145139-rRimpHGWLhym.png",
-        "year": 2023
-      },
-      {
-        "kind": "series",
         "id": "123-classroom-of-the-elite",
         "title": "Classroom of the Elite",
         "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b98659-sH5z5RfMuyMr.png",
@@ -899,10 +892,10 @@
       },
       {
         "kind": "series",
-        "id": "2454-the-misfit-of-demon-king-academy",
-        "title": "The Misfit of Demon King Academy",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112301-P1K5zjiQfacn.jpg",
-        "year": 2020
+        "id": "4563-demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc",
+        "title": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145139-rRimpHGWLhym.png",
+        "year": 2023
       },
       {
         "kind": "series",
@@ -910,6 +903,13 @@
         "title": "Kaguya-sama: Love is War",
         "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101921-VvdGQy1ZySYf.jpg",
         "year": 2019
+      },
+      {
+        "kind": "series",
+        "id": "2454-the-misfit-of-demon-king-academy",
+        "title": "The Misfit of Demon King Academy",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112301-P1K5zjiQfacn.jpg",
+        "year": 2020
       },
       {
         "kind": "series",
@@ -1011,17 +1011,17 @@
       },
       {
         "kind": "series",
-        "id": "2611-my-hero-academia-2",
-        "title": "My Hero Academia 2",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21856-gutauxhWAwn6.png",
-        "year": 2017
-      },
-      {
-        "kind": "series",
         "id": "348-the-quintessential-quintuplets",
         "title": "The Quintessential Quintuplets",
         "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103572-2MXV30htoCSh.png",
         "year": 2019
+      },
+      {
+        "kind": "series",
+        "id": "2611-my-hero-academia-2",
+        "title": "My Hero Academia 2",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21856-gutauxhWAwn6.png",
+        "year": 2017
       },
       {
         "kind": "series",
@@ -1053,17 +1053,17 @@
       },
       {
         "kind": "series",
-        "id": "2479-rent-a-girlfriend",
-        "title": "Rent-a-Girlfriend",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113813-UCgSIGyWvLgl.jpg",
-        "year": 2020
-      },
-      {
-        "kind": "series",
         "id": "148-your-lie-in-april",
         "title": "Your Lie in April",
         "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20665-CnzR2zVpdxtR.png",
         "year": 2014
+      },
+      {
+        "kind": "series",
+        "id": "2479-rent-a-girlfriend",
+        "title": "Rent-a-Girlfriend",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113813-UCgSIGyWvLgl.jpg",
+        "year": 2020
       },
       {
         "kind": "series",
@@ -1256,17 +1256,17 @@
       },
       {
         "kind": "series",
-        "id": "94-date-a-live",
-        "title": "Date A Live",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15583-Sxd2J4RJdRhj.jpg",
-        "year": 2013
-      },
-      {
-        "kind": "series",
         "id": "405-erased",
         "title": "ERASED",
         "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx21234-v2NMgPyoVRoM.jpg",
         "year": 2016
+      },
+      {
+        "kind": "series",
+        "id": "94-date-a-live",
+        "title": "Date A Live",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15583-Sxd2J4RJdRhj.jpg",
+        "year": 2013
       },
       {
         "kind": "series",
@@ -1284,13 +1284,6 @@
       },
       {
         "kind": "series",
-        "id": "4543-i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too",
-        "title": "I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153845-C47aoKy7wf19.jpg",
-        "year": 2023
-      },
-      {
-        "kind": "series",
         "id": "3238-the-worlds-finest-assassin-gets-reincarnated-in-another-world-as-an-aristocrat",
         "title": "The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat",
         "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129898-FRUzDtPhRigt.jpg",
@@ -1298,37 +1291,16 @@
       },
       {
         "kind": "series",
+        "id": "4543-i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too",
+        "title": "I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153845-C47aoKy7wf19.jpg",
+        "year": 2023
+      },
+      {
+        "kind": "series",
         "id": "2163-tower-of-god",
         "title": "Tower of God",
         "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115230-QHOdSN7yt8ab.jpg",
-        "year": 2020
-      },
-      {
-        "kind": "series",
-        "id": "3137-seirei-gensouki-spirit-chronicles",
-        "title": "Seirei Gensouki: Spirit Chronicles",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx126546-Jujx9OvKxLzA.jpg",
-        "year": 2021
-      },
-      {
-        "kind": "series",
-        "id": "189-haikyu-2",
-        "title": "Haikyu!! 2",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20992-aHgNbcalVEqk.png",
-        "year": 2015
-      },
-      {
-        "kind": "series",
-        "id": "370-food-wars-shokugeki-no-soma",
-        "title": "Food Wars! Shokugeki no Soma",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx20923-BPzRptpHC9Mw.jpg",
-        "year": 2015
-      },
-      {
-        "kind": "series",
-        "id": "2789-haikyu-4-part-2",
-        "title": "Haikyu!! 4 Part 2",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113538-tHVE8j5mOPLu.jpg",
         "year": 2020
       },
       {
@@ -1340,10 +1312,24 @@
       },
       {
         "kind": "series",
-        "id": "119-how-not-to-summon-a-demon-lord",
-        "title": "How Not to Summon a Demon Lord",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101004-rJLBIWGypbYK.png",
-        "year": 2018
+        "id": "3137-seirei-gensouki-spirit-chronicles",
+        "title": "Seirei Gensouki: Spirit Chronicles",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx126546-Jujx9OvKxLzA.jpg",
+        "year": 2021
+      },
+      {
+        "kind": "series",
+        "id": "370-food-wars-shokugeki-no-soma",
+        "title": "Food Wars! Shokugeki no Soma",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx20923-BPzRptpHC9Mw.jpg",
+        "year": 2015
+      },
+      {
+        "kind": "series",
+        "id": "189-haikyu-2",
+        "title": "Haikyu!! 2",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20992-aHgNbcalVEqk.png",
+        "year": 2015
       },
       {
         "kind": "series",
@@ -1354,10 +1340,17 @@
       },
       {
         "kind": "series",
-        "id": "2622-attack-on-titan-3-part-2",
-        "title": "Attack on Titan 3 Part 2",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104578-LaZYFkmhinfB.jpg",
-        "year": 2019
+        "id": "2789-haikyu-4-part-2",
+        "title": "Haikyu!! 4 Part 2",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113538-tHVE8j5mOPLu.jpg",
+        "year": 2020
+      },
+      {
+        "kind": "series",
+        "id": "119-how-not-to-summon-a-demon-lord",
+        "title": "How Not to Summon a Demon Lord",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101004-rJLBIWGypbYK.png",
+        "year": 2018
       },
       {
         "kind": "series",
@@ -1365,6 +1358,13 @@
         "title": "Shikimori's Not Just a Cutie",
         "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx127911-cQVL0dhldFwn.jpg",
         "year": 2022
+      },
+      {
+        "kind": "series",
+        "id": "2622-attack-on-titan-3-part-2",
+        "title": "Attack on Titan 3 Part 2",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104578-LaZYFkmhinfB.jpg",
+        "year": 2019
       },
       {
         "kind": "series",
@@ -1402,17 +1402,17 @@
       },
       {
         "kind": "movie",
-        "id": "3193-evangelion-3010-thrice-upon-a-time",
-        "title": "Evangelion: 3.0+1.0 Thrice Upon a Time",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3786-FPo09WTuoTCV.jpg",
-        "year": 2021
-      },
-      {
-        "kind": "movie",
         "id": "3781-the-story-of-kyoko-and-katsuya",
         "title": "The Story of Kyoko and Katsuya",
         "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136192-hxeNRzBHizBZ.jpg",
         "year": 2022
+      },
+      {
+        "kind": "movie",
+        "id": "3193-evangelion-3010-thrice-upon-a-time",
+        "title": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3786-FPo09WTuoTCV.jpg",
+        "year": 2021
       },
       {
         "kind": "movie",
@@ -1437,17 +1437,17 @@
       },
       {
         "kind": "movie",
+        "id": "3610-detective-conan-movie-24-il-proiettile-scarlatto",
+        "title": "Detective Conan Movie 24: Il proiettile scarlatto",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113653-HY0suLnhIlA6.png",
+        "year": 2021
+      },
+      {
+        "kind": "movie",
         "id": "5052-neon-genesis-evangelion-the-end-of-evangelion",
         "title": "Neon Genesis Evangelion: The End of Evangelion",
         "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx32-i4ijZI4MuPiV.jpg",
         "year": 1997
-      },
-      {
-        "kind": "movie",
-        "id": "1426-initial-d-legend-1-awakening",
-        "title": "Initial D Legend 1 Awakening",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20842.jpg",
-        "year": 2014
       },
       {
         "kind": "movie",
@@ -1458,17 +1458,17 @@
       },
       {
         "kind": "movie",
+        "id": "1426-initial-d-legend-1-awakening",
+        "title": "Initial D Legend 1 Awakening",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20842.jpg",
+        "year": 2014
+      },
+      {
+        "kind": "movie",
         "id": "2190-violet-evergarden-eternity-and-the-auto-memory-doll",
         "title": "Violet Evergarden: Eternity and the Auto Memory Doll",
         "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109190-e8mv1qdmpjLW.jpg",
         "year": 2019
-      },
-      {
-        "kind": "movie",
-        "id": "3056-demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train",
-        "title": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112151-1qlQwPB1RrJe.png",
-        "year": 2020
       },
       {
         "kind": "movie",
@@ -1482,6 +1482,13 @@
         "id": "2953-given-movie",
         "title": "Given Movie",
         "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx111734-82sWJBotlzE8.png",
+        "year": 2020
+      },
+      {
+        "kind": "movie",
+        "id": "3056-demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train",
+        "title": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112151-1qlQwPB1RrJe.png",
         "year": 2020
       },
       {
@@ -1500,17 +1507,17 @@
       },
       {
         "kind": "movie",
-        "id": "4848-sasaki-and-miyano-graduation",
-        "title": "Sasaki and Miyano: Graduation",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146743-MQNPLbWH0mI9.jpg",
-        "year": 2023
-      },
-      {
-        "kind": "movie",
         "id": "788-detective-conan-movie-20-lincubo-piu-buio",
         "title": "Detective Conan Movie 20: L’Incubo più Buio",
         "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21470-huY2vyX3Ej2z.jpg",
         "year": 2016
+      },
+      {
+        "kind": "movie",
+        "id": "4848-sasaki-and-miyano-graduation",
+        "title": "Sasaki and Miyano: Graduation",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146743-MQNPLbWH0mI9.jpg",
+        "year": 2023
       },
       {
         "kind": "movie",
@@ -1528,17 +1535,17 @@
       },
       {
         "kind": "movie",
-        "id": "3448-voglio-mangiare-il-tuo-pancreas",
-        "title": "Voglio mangiare il tuo pancreas",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99750-NHafozHS8zRp.jpg",
-        "year": 2018
-      },
-      {
-        "kind": "movie",
         "id": "5657-il-castello-errante-di-howl",
         "title": "Il castello errante di Howl",
         "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx431-dDgk19xDZjVX.jpg",
         "year": 2004
+      },
+      {
+        "kind": "movie",
+        "id": "3448-voglio-mangiare-il-tuo-pancreas",
+        "title": "Voglio mangiare il tuo pancreas",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99750-NHafozHS8zRp.jpg",
+        "year": 2018
       },
       {
         "kind": "movie",
@@ -1556,20 +1563,6 @@
       },
       {
         "kind": "movie",
-        "id": "2570-steinsgate-the-movie-load-region-of-deja-vu",
-        "title": "Steins;Gate: The Movie - Load Region of Déjà Vu",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11577-rhqsxLOAge4f.png",
-        "year": 2013
-      },
-      {
-        "kind": "movie",
-        "id": "1150-girls-und-panzer-der-film",
-        "title": "Girls und Panzer der Film",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx18617-bzfsyLDahhm8.jpg",
-        "year": 2015
-      },
-      {
-        "kind": "movie",
         "id": "2979-the-stranger-by-the-shore",
         "title": "The Stranger by the Shore",
         "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112788-yzq8eEwO6wan.jpg",
@@ -1577,10 +1570,24 @@
       },
       {
         "kind": "movie",
+        "id": "2570-steinsgate-the-movie-load-region-of-deja-vu",
+        "title": "Steins;Gate: The Movie - Load Region of Déjà Vu",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11577-rhqsxLOAge4f.png",
+        "year": 2013
+      },
+      {
+        "kind": "movie",
         "id": "4161-the-quintessential-quintuplets-movie",
         "title": "The Quintessential Quintuplets Movie",
         "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131520-kCOY9XBAbMcX.png",
         "year": 2022
+      },
+      {
+        "kind": "movie",
+        "id": "1150-girls-und-panzer-der-film",
+        "title": "Girls und Panzer der Film",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx18617-bzfsyLDahhm8.jpg",
+        "year": 2015
       },
       {
         "kind": "movie",
@@ -1619,6 +1626,20 @@
       },
       {
         "kind": "movie",
+        "id": "5799-given-movie-2-hiiragi-mix",
+        "title": "Given Movie 2: Hiiragi Mix",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx162987-gRFCJagC9bm2.jpg",
+        "year": 2024
+      },
+      {
+        "kind": "movie",
+        "id": "4790-suzume",
+        "title": "Suzume",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142770-sG9FZa5JxlmE.jpg",
+        "year": 2022
+      },
+      {
+        "kind": "movie",
         "id": "4036-jujutsu-kaisen-0",
         "title": "Jujutsu Kaisen 0",
         "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131573-rpl82vDEDRm6.jpg",
@@ -1637,20 +1658,6 @@
         "title": "Detective Conan Movie 18: Il Cecchino di un'altra dimensione",
         "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20546-3etnJUBqpEdJ.jpg",
         "year": 2014
-      },
-      {
-        "kind": "movie",
-        "id": "5799-given-movie-2-hiiragi-mix",
-        "title": "Given Movie 2: Hiiragi Mix",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx162987-gRFCJagC9bm2.jpg",
-        "year": 2024
-      },
-      {
-        "kind": "movie",
-        "id": "4790-suzume",
-        "title": "Suzume",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142770-sG9FZa5JxlmE.jpg",
-        "year": 2022
       },
       {
         "kind": "movie",
@@ -1717,13 +1724,6 @@
       },
       {
         "kind": "movie",
-        "id": "1422-initial-d-third-stage",
-        "title": "Initial D Third Stage",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx187-QyCAlBGY3EWw.jpg",
-        "year": 2001
-      },
-      {
-        "kind": "movie",
         "id": "5341-perfect-blue",
         "title": "Perfect Blue",
         "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx437-moJoeSWPuAIS.jpg",
@@ -1731,17 +1731,17 @@
       },
       {
         "kind": "movie",
+        "id": "1422-initial-d-third-stage",
+        "title": "Initial D Third Stage",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx187-QyCAlBGY3EWw.jpg",
+        "year": 2001
+      },
+      {
+        "kind": "movie",
         "id": "787-detective-conan-movie-19-i-girasoli-infernali",
         "title": "Detective Conan Movie 19: I Girasoli Infernali",
         "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21646-N6cVkCIx9KsP.jpg",
         "year": 2015
-      },
-      {
-        "kind": "movie",
-        "id": "1943-doukyusei-classmates",
-        "title": "Doukyusei -Classmates-",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx21096-1wIOxpjtXb7J.jpg",
-        "year": 2016
       }
     ]
   },
@@ -1814,17 +1814,17 @@
       },
       {
         "kind": "movie",
-        "id": "3449-voglio-mangiare-il-tuo-pancreas-ita",
-        "title": "Voglio mangiare il tuo pancreas (ITA)",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99750-NHafozHS8zRp.jpg",
-        "year": 2018
-      },
-      {
-        "kind": "movie",
         "id": "1332-principessa-mononoke-ita",
         "title": "Principessa Mononoke (ITA)",
         "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx164-QYmGmG2k09pL.jpg",
         "year": 1997
+      },
+      {
+        "kind": "movie",
+        "id": "3449-voglio-mangiare-il-tuo-pancreas-ita",
+        "title": "Voglio mangiare il tuo pancreas (ITA)",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99750-NHafozHS8zRp.jpg",
+        "year": 2018
       },
       {
         "kind": "movie",
@@ -1877,17 +1877,17 @@
       },
       {
         "kind": "movie",
-        "id": "4260-nausicaa-della-valle-del-vento-ita",
-        "title": "Nausicaä della Valle del Vento (ITA)",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx572-ZE3kHBA6U0X1.jpg",
-        "year": 1984
-      },
-      {
-        "kind": "movie",
         "id": "4591-ponyo-sulla-scogliera-ita",
         "title": "Ponyo Sulla Scogliera (ITA)",
         "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2890-wcNtFr6aUYOR.jpg",
         "year": 2008
+      },
+      {
+        "kind": "movie",
+        "id": "4260-nausicaa-della-valle-del-vento-ita",
+        "title": "Nausicaä della Valle del Vento (ITA)",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx572-ZE3kHBA6U0X1.jpg",
+        "year": 1984
       },
       {
         "kind": "movie",
@@ -1919,6 +1919,13 @@
       },
       {
         "kind": "movie",
+        "id": "4471-dragon-ball-z-movie-08-il-super-saiyan-della-leggenda-ita",
+        "title": "Dragon Ball Z Movie 08: Il Super Saiyan Della Leggenda (ITA)",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/901-gB41PQJWFXjp.jpg",
+        "year": 1993
+      },
+      {
+        "kind": "movie",
         "id": "4166-berserk-the-golden-age-arc-iii-the-advent-ita",
         "title": "Berserk: The Golden Age Arc III - The Advent (ITA)",
         "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b12115-a0apheImsQ4G.jpg",
@@ -1926,10 +1933,10 @@
       },
       {
         "kind": "movie",
-        "id": "4471-dragon-ball-z-movie-08-il-super-saiyan-della-leggenda-ita",
-        "title": "Dragon Ball Z Movie 08: Il Super Saiyan Della Leggenda (ITA)",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/901-gB41PQJWFXjp.jpg",
-        "year": 1993
+        "id": "420-wolf-children-ame-e-yuki-i-bambini-lupo-ita",
+        "title": "Wolf Children - Ame e Yuki i bambini lupo (ITA)",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12355-wNsvhEsXEgrH.png",
+        "year": 2012
       },
       {
         "kind": "movie",
@@ -1947,31 +1954,17 @@
       },
       {
         "kind": "movie",
-        "id": "4960-suzume-ita",
-        "title": "Suzume (ITA)",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142770-sG9FZa5JxlmE.jpg",
-        "year": 2022
-      },
-      {
-        "kind": "movie",
-        "id": "420-wolf-children-ame-e-yuki-i-bambini-lupo-ita",
-        "title": "Wolf Children - Ame e Yuki i bambini lupo (ITA)",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12355-wNsvhEsXEgrH.png",
-        "year": 2012
-      },
-      {
-        "kind": "movie",
-        "id": "4601-maquia-when-the-promised-flower-blooms-ita",
-        "title": "Maquia: When the Promised Flower Blooms (ITA)",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99457-PFq5dreQabIu.png",
-        "year": 2018
-      },
-      {
-        "kind": "movie",
         "id": "4377-laputa-il-castello-nel-cielo-ita",
         "title": "Laputa, Il Castello Nel Cielo (ITA)",
         "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx513-G47zqEhndFBY.jpg",
         "year": 1986
+      },
+      {
+        "kind": "movie",
+        "id": "4960-suzume-ita",
+        "title": "Suzume (ITA)",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142770-sG9FZa5JxlmE.jpg",
+        "year": 2022
       },
       {
         "kind": "movie",
@@ -1982,10 +1975,10 @@
       },
       {
         "kind": "movie",
-        "id": "3450-your-name-ita",
-        "title": "Your Name (ITA)",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21519-XIr3PeczUjjF.png",
-        "year": 2016
+        "id": "5567-josee-the-tiger-and-the-fish-ita",
+        "title": "Josee, the Tiger and the Fish (ITA)",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113596-LKA0bYJGjLnB.jpg",
+        "year": 2020
       },
       {
         "kind": "movie",
@@ -1996,17 +1989,10 @@
       },
       {
         "kind": "movie",
-        "id": "5567-josee-the-tiger-and-the-fish-ita",
-        "title": "Josee, the Tiger and the Fish (ITA)",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113596-LKA0bYJGjLnB.jpg",
-        "year": 2020
-      },
-      {
-        "kind": "movie",
-        "id": "4118-sword-art-online-movie-ordinal-scale-ita",
-        "title": "Sword Art Online Movie: Ordinal Scale (ITA)",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx21403-k8DZhZ3x1BCO.png",
-        "year": 2017
+        "id": "3450-your-name-ita",
+        "title": "Your Name (ITA)",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21519-XIr3PeczUjjF.png",
+        "year": 2016
       },
       {
         "kind": "movie",
@@ -2017,6 +2003,13 @@
       },
       {
         "kind": "movie",
+        "id": "4118-sword-art-online-movie-ordinal-scale-ita",
+        "title": "Sword Art Online Movie: Ordinal Scale (ITA)",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx21403-k8DZhZ3x1BCO.png",
+        "year": 2017
+      },
+      {
+        "kind": "movie",
         "id": "4037-jujutsu-kaisen-0-ita",
         "title": "Jujutsu Kaisen 0 (ITA)",
         "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131573-rpl82vDEDRm6.jpg",
@@ -2024,10 +2017,24 @@
       },
       {
         "kind": "movie",
-        "id": "1245-perfect-blue-ita",
-        "title": "Perfect Blue (ITA)",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx437-dvq9hcIyojVX.jpg",
-        "year": 1998
+        "id": "4601-maquia-when-the-promised-flower-blooms-ita",
+        "title": "Maquia: When the Promised Flower Blooms (ITA)",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99457-PFq5dreQabIu.png",
+        "year": 2018
+      },
+      {
+        "kind": "movie",
+        "id": "3786-my-hero-academia-world-heroes-mission-ita",
+        "title": "My Hero Academia: World Heroes' Mission (ITA)",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx126659-i6c1PsXHGyke.jpg",
+        "year": 2021
+      },
+      {
+        "kind": "movie",
+        "id": "1173-la-collina-dei-papaveri-ita",
+        "title": "La Collina Dei Papaveri (ITA)",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10029-R7iZdjWuzeYq.png",
+        "year": 2011
       },
       {
         "kind": "movie",
@@ -2038,17 +2045,10 @@
       },
       {
         "kind": "movie",
-        "id": "5577-spy-x-family-code-white-ita",
-        "title": "Spy x Family Code: White (ITA)",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158928-xqE0euKlQMnY.jpg",
-        "year": 2023
-      },
-      {
-        "kind": "movie",
-        "id": "3786-my-hero-academia-world-heroes-mission-ita",
-        "title": "My Hero Academia: World Heroes' Mission (ITA)",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx126659-i6c1PsXHGyke.jpg",
-        "year": 2021
+        "id": "1245-perfect-blue-ita",
+        "title": "Perfect Blue (ITA)",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx437-dvq9hcIyojVX.jpg",
+        "year": 1998
       },
       {
         "kind": "movie",
@@ -2080,10 +2080,10 @@
       },
       {
         "kind": "movie",
-        "id": "1173-la-collina-dei-papaveri-ita",
-        "title": "La Collina Dei Papaveri (ITA)",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10029-R7iZdjWuzeYq.png",
-        "year": 2011
+        "id": "3490-quando-cera-marnie-ita",
+        "title": "Quando c'era Marnie (ITA)",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20555-QGbWQC3Kfpok.jpg",
+        "year": 2014
       }
     ]
   },
@@ -2128,17 +2128,17 @@
       },
       {
         "kind": "series",
-        "id": "5016-the-dangers-in-my-heart-2",
-        "title": "The Dangers in My Heart 2",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166216-mK2CNMDLsBfW.jpg",
-        "year": 2024
-      },
-      {
-        "kind": "series",
         "id": "3378-fullmetal-alchemist-brotherhood",
         "title": "Fullmetal Alchemist: Brotherhood",
         "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5114-KJTQz9AIm6Wk.jpg",
         "year": 2009
+      },
+      {
+        "kind": "series",
+        "id": "5016-the-dangers-in-my-heart-2",
+        "title": "The Dangers in My Heart 2",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166216-mK2CNMDLsBfW.jpg",
+        "year": 2024
       },
       {
         "kind": "series",
@@ -2156,6 +2156,13 @@
       },
       {
         "kind": "series",
+        "id": "2990-fruits-basket-the-final-season",
+        "title": "Fruits Basket: The Final Season",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx124194-pWfBqp3GgjOx.jpg",
+        "year": 2021
+      },
+      {
+        "kind": "series",
         "id": "4686-bleach-thousand-year-blood-war-the-separation",
         "title": "Bleach: Thousand-Year Blood War - The Separation",
         "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159322-Sp1GflRhE6Po.jpg",
@@ -2163,10 +2170,10 @@
       },
       {
         "kind": "series",
-        "id": "2990-fruits-basket-the-final-season",
-        "title": "Fruits Basket: The Final Season",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx124194-pWfBqp3GgjOx.jpg",
-        "year": 2021
+        "id": "5802-the-apothecary-diaries-2",
+        "title": "The Apothecary Diaries 2",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176301-AclxpmzlKoBM.jpg",
+        "year": 2025
       },
       {
         "kind": "series",
@@ -2181,13 +2188,6 @@
         "title": "Bleach: Thousand-Year Blood War - The Conflict",
         "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169755-Rqb7MjnzdTc6.jpg?a=1",
         "year": 2024
-      },
-      {
-        "kind": "series",
-        "id": "5802-the-apothecary-diaries-2",
-        "title": "The Apothecary Diaries 2",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176301-AclxpmzlKoBM.jpg",
-        "year": 2025
       },
       {
         "kind": "series",
@@ -2219,6 +2219,13 @@
       },
       {
         "kind": "series",
+        "id": "3224-86-eighty-six-part-2",
+        "title": "86 Eighty-Six Part 2",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131586-k0X2kVpUOkqX.jpg",
+        "year": 2021
+      },
+      {
+        "kind": "series",
         "id": "4851-frieren-beyond-journeys-end",
         "title": "Frieren: Beyond Journey's End",
         "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154587-n1fmjRv4JQUd.jpg",
@@ -2230,13 +2237,6 @@
         "title": "The Apothecary Diaries",
         "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx161645-7I8Cip7XRDhV.jpg",
         "year": 2023
-      },
-      {
-        "kind": "series",
-        "id": "3224-86-eighty-six-part-2",
-        "title": "86 Eighty-Six Part 2",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131586-k0X2kVpUOkqX.jpg",
-        "year": 2021
       },
       {
         "kind": "series",
@@ -2254,13 +2254,6 @@
       },
       {
         "kind": "series",
-        "id": "397-gintama-3",
-        "title": "Gintama 3",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15417-Uc2uNdWEixwi.jpg",
-        "year": 2012
-      },
-      {
-        "kind": "series",
         "id": "2622-attack-on-titan-3-part-2",
         "title": "Attack on Titan 3 Part 2",
         "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104578-LaZYFkmhinfB.jpg",
@@ -2268,10 +2261,10 @@
       },
       {
         "kind": "series",
-        "id": "4290-solo-leveling",
-        "title": "Solo Leveling",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151807-m1gX3iwfIsLu.png",
-        "year": 2024
+        "id": "397-gintama-3",
+        "title": "Gintama 3",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15417-Uc2uNdWEixwi.jpg",
+        "year": 2012
       },
       {
         "kind": "series",
@@ -2282,6 +2275,13 @@
       },
       {
         "kind": "series",
+        "id": "4290-solo-leveling",
+        "title": "Solo Leveling",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151807-m1gX3iwfIsLu.png",
+        "year": 2024
+      },
+      {
+        "kind": "series",
         "id": "5546-gurren-lagann",
         "title": "Gurren Lagann",
         "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2001-7cvz7Jf8viMT.png",
@@ -2289,17 +2289,17 @@
       },
       {
         "kind": "series",
-        "id": "399-gintama-5",
-        "title": "Gintama 5",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97889-NWQVqODOuBqI.jpg",
-        "year": 2017
-      },
-      {
-        "kind": "series",
         "id": "4162-berserk",
         "title": "Berserk",
         "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx33-CTtcRjqe7UnM.jpg",
         "year": 1997
+      },
+      {
+        "kind": "series",
+        "id": "399-gintama-5",
+        "title": "Gintama 5",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97889-NWQVqODOuBqI.jpg",
+        "year": 2017
       },
       {
         "kind": "series",
@@ -2345,13 +2345,6 @@
       },
       {
         "kind": "series",
-        "id": "3643-kaguya-sama-love-is-war-3",
-        "title": "Kaguya-sama: Love is War 3",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx125367-bl5vGalMH2cC.png",
-        "year": 2022
-      },
-      {
-        "kind": "series",
         "id": "2883-attack-on-titan-the-final-season",
         "title": "Attack on Titan: The Final Season",
         "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110277-qDRIhu50PXzz.jpg",
@@ -2370,6 +2363,13 @@
         "title": "Your Lie in April",
         "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20665-CnzR2zVpdxtR.png",
         "year": 2014
+      },
+      {
+        "kind": "series",
+        "id": "3643-kaguya-sama-love-is-war-3",
+        "title": "Kaguya-sama: Love is War 3",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx125367-bl5vGalMH2cC.png",
+        "year": 2022
       },
       {
         "kind": "series",
@@ -2436,31 +2436,10 @@
       },
       {
         "kind": "series",
-        "id": "6400-fire-force-3",
-        "title": "Fire Force 3",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx149118-AOQb0xuTssGl.jpg",
-        "year": 2025
-      },
-      {
-        "kind": "series",
-        "id": "1424-initial-d-fifth-stage",
-        "title": "Initial D Fifth Stage",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15059.jpg",
-        "year": 2012
-      },
-      {
-        "kind": "series",
         "id": "189-haikyu-2",
         "title": "Haikyu!! 2",
         "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20992-aHgNbcalVEqk.png",
         "year": 2015
-      },
-      {
-        "kind": "series",
-        "id": "4563-demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc",
-        "title": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145139-rRimpHGWLhym.png",
-        "year": 2023
       },
       {
         "kind": "series",
@@ -2475,6 +2454,20 @@
         "title": "Kingdom 4",
         "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140350-Qf5IB0HxaJZf.jpg",
         "year": 2022
+      },
+      {
+        "kind": "series",
+        "id": "1424-initial-d-fifth-stage",
+        "title": "Initial D Fifth Stage",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15059.jpg",
+        "year": 2012
+      },
+      {
+        "kind": "series",
+        "id": "4563-demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc",
+        "title": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145139-rRimpHGWLhym.png",
+        "year": 2023
       },
       {
         "kind": "series",
@@ -2554,17 +2547,17 @@
       },
       {
         "kind": "series",
-        "id": "3479-ken-il-guerriero-2-ita",
-        "title": "Ken il guerriero 2 (ITA)",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1356-AKdQpG250kKS.jpg",
-        "year": 1987
-      },
-      {
-        "kind": "series",
         "id": "4636-bleach-thousand-year-blood-war-ita",
         "title": "Bleach: Thousand-Year Blood War (ITA)",
         "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116674-p3zK4PUX2Aag.jpg",
         "year": 2022
+      },
+      {
+        "kind": "series",
+        "id": "3479-ken-il-guerriero-2-ita",
+        "title": "Ken il guerriero 2 (ITA)",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1356-AKdQpG250kKS.jpg",
+        "year": 1987
       },
       {
         "kind": "series",
@@ -2589,17 +2582,17 @@
       },
       {
         "kind": "series",
-        "id": "3847-haikyu-3-ita",
-        "title": "Haikyu!! 3 (ITA)",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21698-RL71mr1YU5Io.png",
-        "year": 2016
-      },
-      {
-        "kind": "series",
         "id": "2462-code-geass-lelouch-of-the-rebellion-r2-ita",
         "title": "Code Geass: Lelouch of the Rebellion R2 (ITA)",
         "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx2904-xdm9EZ46VGCs.jpg",
         "year": 2008
+      },
+      {
+        "kind": "series",
+        "id": "3847-haikyu-3-ita",
+        "title": "Haikyu!! 3 (ITA)",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21698-RL71mr1YU5Io.png",
+        "year": 2016
       },
       {
         "kind": "series",
@@ -2638,17 +2631,17 @@
       },
       {
         "kind": "series",
-        "id": "5160-fairy-tail-final-series-ita",
-        "title": "Fairy Tail: Final Series (ITA)",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx99749-tvz2LCPdMyrp.jpg",
-        "year": 2018
-      },
-      {
-        "kind": "series",
         "id": "1160-slam-dunk-ita",
         "title": "Slam Dunk (ITA)",
         "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx170-EHrwa8o5hJGo.jpg",
         "year": 1993
+      },
+      {
+        "kind": "series",
+        "id": "5160-fairy-tail-final-series-ita",
+        "title": "Fairy Tail: Final Series (ITA)",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx99749-tvz2LCPdMyrp.jpg",
+        "year": 2018
       },
       {
         "kind": "series",
@@ -2673,13 +2666,6 @@
       },
       {
         "kind": "series",
-        "id": "3769-haikyu-2-ita",
-        "title": "Haikyu!! 2 (ITA)",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20992-aHgNbcalVEqk.png",
-        "year": 2015
-      },
-      {
-        "kind": "series",
         "id": "5782-the-apothecary-diaries-ita",
         "title": "The Apothecary Diaries (ITA)",
         "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx161645-bX5S28Cc1Nnk.jpg",
@@ -2687,10 +2673,24 @@
       },
       {
         "kind": "series",
+        "id": "3769-haikyu-2-ita",
+        "title": "Haikyu!! 2 (ITA)",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20992-aHgNbcalVEqk.png",
+        "year": 2015
+      },
+      {
+        "kind": "series",
         "id": "746-lupin-iii-part-5-ita",
         "title": "Lupin III: Part 5 (ITA)",
         "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100957-YzfrlJDqswJc.jpg",
         "year": 2018
+      },
+      {
+        "kind": "series",
+        "id": "5080-solo-leveling-ita",
+        "title": "Solo Leveling (ITA)",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151807-m1gX3iwfIsLu.png",
+        "year": 2024
       },
       {
         "kind": "series",
@@ -2708,17 +2708,24 @@
       },
       {
         "kind": "series",
-        "id": "3994-haikyu-4-ita",
-        "title": "Haikyu!! 4 (ITA)",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx106625-UR22wB2NuNVi.png",
+        "id": "3167-yes-pretty-cure-5-ita",
+        "title": "Yes! Pretty Cure 5 (ITA)",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1932-3B7jaJSN7XXd.jpg",
+        "year": 2007
+      },
+      {
+        "kind": "series",
+        "id": "3941-attack-on-titan-the-final-season-ita",
+        "title": "Attack on Titan: The Final Season (ITA)",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110277-qDRIhu50PXzz.jpg",
         "year": 2020
       },
       {
         "kind": "series",
-        "id": "5080-solo-leveling-ita",
-        "title": "Solo Leveling (ITA)",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151807-m1gX3iwfIsLu.png",
-        "year": 2024
+        "id": "3994-haikyu-4-ita",
+        "title": "Haikyu!! 4 (ITA)",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx106625-UR22wB2NuNVi.png",
+        "year": 2020
       },
       {
         "kind": "series",
@@ -2743,17 +2750,17 @@
       },
       {
         "kind": "series",
-        "id": "3941-attack-on-titan-the-final-season-ita",
-        "title": "Attack on Titan: The Final Season (ITA)",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110277-qDRIhu50PXzz.jpg",
-        "year": 2020
-      },
-      {
-        "kind": "series",
         "id": "2693-death-note-ita",
         "title": "Death Note (ITA)",
         "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1535-lawCwhzhi96X.jpg",
         "year": 2006
+      },
+      {
+        "kind": "series",
+        "id": "250-violet-evergarden-ita",
+        "title": "Violet Evergarden (ITA)",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx21827-10F6m50H4GJK.png",
+        "year": 2018
       },
       {
         "kind": "series",
@@ -2778,17 +2785,10 @@
       },
       {
         "kind": "series",
-        "id": "250-violet-evergarden-ita",
-        "title": "Violet Evergarden (ITA)",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx21827-10F6m50H4GJK.png",
-        "year": 2018
-      },
-      {
-        "kind": "series",
-        "id": "2590-nana-ita",
-        "title": "Nana (ITA)",
-        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx877-rgaDbTMM9R59.png",
-        "year": 2006
+        "id": "5061-my-hero-academia-6-ita",
+        "title": "My Hero Academia 6 (ITA)",
+        "posterURL": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139630-3v4gxWtNZxLV.jpg",
+        "year": 2022
       },
       {
         "kind": "series",
