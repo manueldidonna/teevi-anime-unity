@@ -84,6 +84,10 @@ export async function fetchAUShowsByQuery(query: string): Promise<AUShow[]> {
 export async function fetchAUShow(
   id: string
 ): Promise<AUShow & { related?: AUShow[] }> {
+  type AnimeData = AUShow & {
+    related?: AUShow[]
+  }
+
   const endpoint = new URL(`anime/${id}`, API_URL)
   const html = await fetchHTML(endpoint)
   const dataBlock = html("video-player[anime]")
@@ -93,9 +97,25 @@ export async function fetchAUShow(
     throw new Error("Failed to parse show data")
   }
 
-  const anime = JSON.parse(animeJson) as AUShow
+  const { related, ...anime } = JSON.parse(animeJson) as AnimeData
+
+  let suggestions = related || []
+
+  // Recommendations
+  const recommendedJson = html("div.recommended layout-items[items-json]").attr(
+    "items-json"
+  )
+  if (recommendedJson) {
+    const recommended = JSON.parse(recommendedJson) as AUShow[]
+    const uniqueMap = new Map<number, AUShow>()
+    suggestions.forEach((show) => uniqueMap.set(show.id, show))
+    recommended.forEach((show) => uniqueMap.set(show.id, show))
+    suggestions = Array.from(uniqueMap.values())
+  }
+
   return {
     ...anime,
+    related: suggestions,
     episodes_count: Number(dataBlock.attr("episodes_count")),
   }
 }
